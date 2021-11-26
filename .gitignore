@@ -1,0 +1,10 @@
+
+# mql4 settings
+*.ex4
+*.log
+
+# intellij settings
+.idea/
+
+# reference code
+reference/
